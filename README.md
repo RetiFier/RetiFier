@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm RETI<span style="font-weight:100">FIER</span></h1>
 <div align="center">
-  <a href="https://github.com/retfier">
+  <a href="https://github.com/RetiFier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retifier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retifier&layout=compact&langs_count=7&theme=dark"/>
 </div>
