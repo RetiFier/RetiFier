@@ -58,7 +58,7 @@
 <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
 </td>
 <td align="center" width="120">
-<img src="httpsillicons.dev/icons?i=ts" width="48"/><br>TypeScript
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React / Next.js
